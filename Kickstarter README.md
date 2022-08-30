@@ -9,7 +9,7 @@ To assist Louise in understanding how launch date and/or funding goals could pos
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Image 1](Outcomes_vs_Goals.png)
+![Image 1](Theater_Outcomes_vs_Launch.png))
 Assuming Louise launched their campaign in May and looking at our sample size of theater campaigns we can observe the following:
 - 166 theater campaigns launched in May in outher years: 111 successful, 52 failed, and 3 canceled. 
 - May was also the month with the largest amount of theater campaigns launched in a month with June closely behind. 
@@ -17,7 +17,7 @@ Assuming Louise launched their campaign in May and looking at our sample size of
 - December had the lowest success rate at 49%.
 
 ### Analysis of Outcomes Based on Goals
-ADD IMAGE FILE HERE!!!
+![Image 2](Outcomes_vs_Goals.png)
 Assuming Lousie's goal was between $10,000 and $14,999, as well as, looking at our sample size of play campaigns we can observe the following:
 - Play campaigns with a goal between $10,000 and $14,999 were 95% successful, 5% failed, and 0% cancelled.
 - Play campaigns with higher goals had 100% success: $15,000 to $19,999 ; $25,000 to $29,999.
