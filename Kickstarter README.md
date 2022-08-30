@@ -43,6 +43,6 @@ The only challenge I faced on this data report was remembering that the plays we
     
     We could create a table and a graph to answer the following questions:
     1. What is the trend of theater campaigns by year? 
-    - We can create a copy of the "Theater Outcomes by Launch Date" sheet and edit the PivotTable Fields so Date created is removed in Rows and years is in rows only.
+        - We can create a copy of the "Theater Outcomes by Launch Date" sheet and edit the PivotTable Fields so Date created is removed in Rows and years is in rows only.
     2. Are success' in May the same from year to year?
-    - We can view this by using the filter feature we created in the "Theater Outcomes by Launch Date" sheet and select various years
+        - We can view this by using the filter feature we created in the "Theater Outcomes by Launch Date" sheet and select various years
