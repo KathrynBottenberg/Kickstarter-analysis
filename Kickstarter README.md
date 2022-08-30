@@ -38,10 +38,11 @@ The only challenge I faced on this data report was remembering that the plays we
 - What can you conclude about the Outcomes based on Goals?
     - Louise had a goal amount bewtween $10,000 and $14,000. From the graph in [Image 2], you can see a large percentage of plays that ask for similar amount have a very high success rate. Even though the graph does demonstrate campaigns with a goal of more money (ie. $15,000 to $19,999; $25,000 to $29,999) had higher percentages of success, the number off success cases was more than 3 or more times higher in the $10,000 to $14,999 and failed numbers were very close in comparison to the other categories with higher success percentages. 
 - What are some limitations of this dataset?
-    One limitation of this dataset is that it is based on old data. The data set only goes to 2017 and trends may have changed 4-5 years that have passed. Another limitation of this dataset is that it is a closed set, we may have a more accurate analysis if we had a continous dataset or larger dataset.
+    - One limitation of this dataset is that it is based on old data. The data set only goes to 2017 and trends may have changed 4-5 years that have passed. Another limitation of this dataset is that it is a closed set, we may have a more accurate analysis if we had a continous dataset or larger dataset.
 - What are some other possible tables and/or graphs that we could create?
-     We could create a table and a graph to answer the following questions:
-        - What is the trend of theater campaigns by year? 
-            We can create a copy of the "Theater Outcomes by Launch Date" sheet and edit the PivotTable Fields so Date created is removed in Rows and years is in rows only.
-        - Are success' in May the same from year to year?
-            We can view this by using the filter feature we created in the "Theater Outcomes by Launch Date" sheet and select various years
+    
+    We could create a table and a graph to answer the following questions:
+    1. What is the trend of theater campaigns by year? 
+    - We can create a copy of the "Theater Outcomes by Launch Date" sheet and edit the PivotTable Fields so Date created is removed in Rows and years is in rows only.
+    2. Are success' in May the same from year to year?
+    - We can view this by using the filter feature we created in the "Theater Outcomes by Launch Date" sheet and select various years
